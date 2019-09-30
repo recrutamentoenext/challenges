@@ -1,5 +1,5 @@
 ## Objetivo
-Esse teste tem como objetivo construir uma plataforma de envio de dados e imagens para um endpoint que será responsável por armazenar essas informações.
+Esse teste tem como objetivo construir uma plataforma de envio de dados e imagens com o intuito de fazer um cadastro. (Não precisa de endpoint para enviar os dados).
 
 A imagem deverá ser editada (cortada) no próprio ambiente antes de ser enviada para o servidor.
 
@@ -13,10 +13,6 @@ Ao final da submissão, deverá aparecer uma mensagem de agradecimento, juntamen
 *Telefone
 *Imagem
 
-
-## Layout
-Deve-se seguir com o layout em anexo. (Deixar o mais próximo o possível do Layout original).
-
 ## O que será avaliado?
 * Composição do código
     1. Boas práticas;
@@ -28,6 +24,6 @@ Deve-se seguir com o layout em anexo. (Deixar o mais próximo o possível do Lay
 ## Tecnologias
 Para a realização do desafio, pode-se utilizar:
 
-- HTML
-- CSS/SASS
-- Javascript (podendo utilizar React/Vue
+- HTML/Template Engine (PUG/EJS/Handlebars);
+- CSS/SASS/LESS
+- Javascript (podendo utilizar React/Vue)
